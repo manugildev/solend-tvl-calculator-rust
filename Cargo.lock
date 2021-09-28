@@ -2947,10 +2947,9 @@ dependencies = [
 ]
 
 [[package]]
-name = "solend-apy-bot"
+name = "solend-tvl-calculator"
 version = "0.1.0"
 dependencies = [
- "arrayref",
  "lazy_static",
  "solana-account-decoder",
  "solana-client",
